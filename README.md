@@ -19,10 +19,10 @@ code所需環境:vpython3
 
 所需套件:math
 
-程式碼1:final project carnot engine
+程式碼1<final project carnot engine>
 此程式碼跑的是模擬出carnot engine在改變體積溫度下的運作狀況，使用者可以輸入想要的高溫熱庫溫度，之後會印出引擎做功、效率、吸熱、放熱、pv圖
 
-程式碼2:final project carnot cycle
+程式碼2<final project carnot cycle>
 此程式碼跑的是卡諾循環的pv圖，此pv圖和前面程式碼的引擎無關，是純粹為了研究卡諾循環而印出的pv圖
 
 
